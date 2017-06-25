@@ -1,0 +1,2 @@
+# ClaymoreMiner
+My Claymore Mining
